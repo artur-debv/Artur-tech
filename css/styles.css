@@ -1,0 +1,1903 @@
+@charset "UTF-8";
+
+.container {
+  background: black;
+  margin-top: -45px;
+  margin-left: -24px;
+  height: 127px;
+  position: sticky;
+  z-index: 10;
+}
+
+.p_ou {
+  color: white;
+}
+
+span {
+  color: white;
+}
+
+.cqDFSz {
+  display: flex;
+  gap: 17px;
+  margin-right: -96px;
+  margin-top: -93px;
+}
+
+.cqDFSz a {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.gaWrVa {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  overflow-x: auto;
+  border-top: 1px solid rgb(204, 204, 204);
+  border-bottom: 1px solid rgb(204, 204, 204);
+  margin-right: 27px;
+  margin-top: 0px;
+}
+
+.iAYUTC {
+  text-align: center;
+  padding: 15px 10px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+}
+
+.gaWrVa img {
+  width: 35px;
+  margin-bottom: 2px;
+}
+
+.iAYUTC h3 {
+  font-weight: 400;
+  color: black;
+}
+
+.container_about_about {
+  height: 526px;
+  background-color: white;
+}
+
+.imagempc {
+  width: 500px;
+  margin-top: -33px;
+}
+
+.bzOixb strong {
+  font-size: 20px;
+}
+
+.bzOixb p {
+  margin-bottom: 15px;
+}
+
+.gYkoek {
+  border: none;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+}
+
+.div_abouts_abousts {
+  margin: 0px auto 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1024px;
+  margin-right: 180px;
+  margin-left: 246px;
+  gap: 31px;
+}
+
+.kitgamer:hover {
+  transition: 0.3s;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.monitorgamer {
+  width: 400px;
+}
+
+.monitorgamer:hover {
+  transition: 0.3s;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+
+.nottbook:hover {
+  transition: 0.3s;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.bzOixb h1 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.nottbook {
+  width: 400px;
+}
+
+.p_not {
+  font-size: 16px;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.h2not {
+  font-size: 30px;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+.link_not {
+  color: #1363DF;
+  display: block;
+  margin-top: -11px;
+  font-size: 18px;
+  transition: all 0.2s ease 0s;
+}
+
+.product {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  text-align: center;
+  margin-top: -47px;
+}
+
+.product_11 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  text-align: center;
+  margin-top: 3px;
+}
+
+.product_12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.h4_nome {
+  font-size: 20px;
+}
+
+.cEZwIm1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  background-color: rgb(38, 38, 38);
+  padding: 0px 15px;
+  margin-top: 27px;
+  color: white;
+  height: 284px;
+}
+
+.DupHf h4 {
+  font-size: 19px;
+  padding: 20px 0px;
+}
+
+.iPCesR img {
+  padding: 4px;
+  box-sizing: content-box;
+  background-color: rgb(64, 64, 64);
+  border: 1px solid rgb(80, 80, 80);
+  border-radius: 5px;
+  width: 27px;
+  cursor: pointer;
+}
+
+.cEZwIm1 a {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(144, 144, 144);
+  transition: all 0.2s ease 0s;
+}
+
+.fJFxfH {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+  justify-content: center;
+  margin-top: -32px;
+}
+
+.fSiFFA {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 32px;
+}
+
+.buhlSA div {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 12px;
+  gap: 15px;
+}
+
+.fSiFFA {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 32px;
+}
+
+.fJFxfH {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+  margin-top: -32px;
+}
+
+.buhlSA {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px;
+  width: 250px;
+  height: 200px;
+  margin-top: 9px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 143px;
+  padding: 0 6rem;
+  /* margin-top: 45px; */
+  padding-top: 74px;
+}
+
+.cqDFSz div {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+  gap: 6px;
+}
+
+.p_ou {
+  color: white;
+}
+
+.container {
+  background: black;
+  margin-top: -45px;
+  margin-left: -24px;
+  height: 127px;
+  position: sticky;
+  z-index: 10;
+}
+
+.cqDFSz {
+  display: flex;
+  gap: 17px;
+  margin-right: -96px;
+  margin-top: -93px;
+}
+
+span {
+  color: white;
+}
+
+#li_1 {
+  color: white;
+  text-decoration: none;
+}
+
+.cqDFSz div img {
+  width: 25px;
+  height: 25px;
+}
+
+
+
+.pc-gamer {
+  width: 180px;
+  align-self: center;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+.p {
+  color: black;
+  font-size: 16px;
+  margin-left: 0px;
+}
+
+.h4 {
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+}
+
+.ol {
+  list-style-type: disc;
+  margin-left: -12px;
+}
+
+.ol_todos {
+  padding-bottom: 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.button_carrinho_1{
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 5px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 500;
+  width: 205px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+  margin-left: -6px;
+}
+
+.computador_todos {
+  display: flex;
+  justify-content: center;
+}
+
+.carrinho_button {
+  width: 28px;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+.button_carrinho:hover {
+  background-color: #1363DF;
+}
+
+.home {
+  width: 25px;
+  margin-right: 5px;
+  transform: translateY(-2px);
+}
+
+
+.container_products_abouts {
+  margin-left: -193px;
+  padding-top: 20px;
+  margin-left: -733px;
+  display: flex;
+}
+
+.home {
+  width: 25px;
+  margin-right: 5px;
+  transform: translateY(-2px);
+}
+
+.seta {
+  color: black;
+  width: 15px;
+  padding-top: 4px;
+}
+
+.div_img_explorer {
+  display: flex;
+  margin: 0px auto;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  align-items: center;
+  padding: 20px 10px;
+  padding-left: 347px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  display: flex;
+  font-size: 19px;
+}
+
+.pc-gamer:hover {
+  transform: scale(1.05);
+}
+
+.button_carrinho:hover {
+  background-color: #1363DF;
+}
+
+.cqDFSz a {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+::marker {
+  unicode-bidi: isolate;
+  font-variant-numeric: tabular-nums;
+  text-transform: none;
+  text-indent: 0px !important;
+  text-align: start !important;
+  -moz-text-align-last: start !important;
+  text-align-last: start !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+  outline: 0;
+}
+
+.ol_todos {
+  padding-bottom: 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.ol {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+
+.button_carrinho {
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 5px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 500;
+  width: 205px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+  margin-left: -6px;
+}
+
+.button_carrinho:hover {
+  background-color: #1363DF;
+}
+
+.carrinho_button {
+  width: 28px;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 143px;
+  padding: 0 6rem;
+  /* margin-top: 45px; */
+  padding-top: 74px;
+}
+
+.cqDFSz {
+  display: flex;
+  gap: 17px;
+  margin-right: -96px;
+  margin-top: -93px;
+}
+
+.cqDFSz a {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  background: black;
+  margin-top: -45px;
+  margin-left: -24px;
+  height: 127px;
+  position: sticky;
+  z-index: 10;
+}
+
+.cqDFSz div img {
+  width: 25px;
+  height: 25px;
+}
+
+#li_1 {
+  color: white;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  display: flex;
+  font-size: 19px;
+}
+
+.home_link:hover {
+  text-decoration: underline;
+}
+
+.explorar_link:hover {
+  text-decoration: underline;
+}
+
+.p_ou {
+  color: white;
+}
+
+.cqDFSz div {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+  gap: 6px;
+}
+
+span {
+  color: white;
+}
+
+.home {
+  width: 25px;
+  margin-right: 5px;
+  transform: translateY(-2px);
+}
+
+.container_products_abouts {
+  margin-left: -193px;
+  padding-top: 20px;
+  margin-left: -733px;
+  display: flex;
+}
+
+.seta {
+  color: black;
+  width: 15px;
+  padding-top: 4px;
+}
+
+.explorer {
+  font-size: 19px;
+}
+
+.div_img_explorer {
+  display: flex;
+  margin: 0px auto;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  align-items: center;
+  padding: 20px 10px;
+  padding-left: 347px;
+}
+
+.cqDFSz a:hover {
+  text-decoration: underline;
+}
+
+.container_componentes {
+  height: 2073px;
+  background-color: white;
+}
+
+.todos_computadores {
+  margin-top: -7px;
+}
+
+.computador_todos {
+  display: flex;
+  justify-content: center;
+}
+
+.h4_nome {
+  font-size: 20px;
+}
+
+.buhlSA {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px;
+  width: 250px;
+  height: 200px;
+  margin-top: 9px;
+}
+
+.cEZwIm2 a {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(144, 144, 144);
+  transition: all 0.2s ease 0s;
+}
+
+.buhlSA div {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 12px;
+  gap: 15px;
+}
+
+.iPCesR img {
+  padding: 4px;
+  box-sizing: content-box;
+  background-color: rgb(64, 64, 64);
+  border: 1px solid rgb(80, 80, 80);
+  border-radius: 5px;
+  width: 27px;
+  cursor: pointer;
+}
+
+.DupHf h4 {
+  font-size: 19px;
+  padding: 20px 0px;
+}
+
+.computador {
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  padding: 10px;
+  width: 216px;
+  gap: 15px;
+  height: 340px;
+  background-color: rgb(243, 244, 246);
+  margin: 20px;
+}
+
+.cEZwIm a {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(144, 144, 144);
+  transition: all 0.2s ease 0s;
+}
+
+.fSiFFA {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 32px;
+}
+
+.cEZwIm2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  background-color: rgb(38, 38, 38);
+  padding: 0px 15px;
+  margin-top: 75px;
+  color: white;
+  height: 284px;
+}
+
+.fJFxfH {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+  margin-top: -32px;
+}
+
+.preço {
+  color: black;
+  font-weight: 500;
+  margin-top: -4px;
+}
+
+.h4 {
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+}
+
+.p {
+  color: black;
+  font-size: 16px;
+  margin-left: 0px;
+}
+
+.pc-gamer {
+  width: 180px;
+  align-self: center;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+.pc-gamer:hover {
+  transform: scale(1.05);
+}
+
+.container {
+  background: black;
+  margin-top: -45px;
+  margin-left: -24px;
+  height: 127px;
+  position: sticky;
+  z-index: 10;
+}
+
+.pc-gamer:hover {
+  transform: scale(1.05);
+}
+
+.button_carrinho:hover {
+  background-color: #1363DF;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 143px;
+  padding: 0 6rem;
+  /* margin-top: 45px; */
+  padding-top: 74px;
+}
+
+.todos_computadores {
+  margin-top: -7px;
+}
+
+.cEZwIm4 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  background-color: rgb(38, 38, 38);
+  padding: 0px 15px;
+  margin-top: 178px;
+  color: white;
+  height: 284px;
+}
+
+.buhlSA div {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 12px;
+  gap: 15px;
+}
+
+.buhlSA {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px;
+  width: 250px;
+  height: 200px;
+  margin-top: 9px;
+}
+
+.h4_nome {
+  font-size: 20px;
+}
+
+.iPCesR img {
+  padding: 4px;
+  box-sizing: content-box;
+  background-color: rgb(64, 64, 64);
+  border: 1px solid rgb(80, 80, 80);
+  border-radius: 5px;
+  width: 27px;
+  cursor: pointer;
+}
+
+.fSiFFA {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 32px;
+}
+
+.cEZwIm4 a {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(144, 144, 144);
+  transition: all 0.2s ease 0s;
+}
+
+.DupHf h4 {
+  font-size: 19px;
+  padding: 20px 0px;
+}
+
+.fJFxfH {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+  margin-top: -32px;
+}
+
+.explorer {
+  font-size: 200px;
+}
+
+.cqDFSz {
+  display: flex;
+  gap: 17px;
+  margin-right: -96px;
+  margin-top: -93px;
+}
+
+.cqDFSz div img {
+  width: 25px;
+  height: 25px;
+}
+
+.cqDFSz div {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+  gap: 6px;
+}
+
+span {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+}
+
+.p_ou {
+  color: white;
+}
+
+.cqDFSz a {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+
+
+.pc-gamer {
+  width: 180px;
+  align-self: center;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+.h4 {
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+}
+
+.p {
+  color: black;
+  font-size: 16px;
+  margin-left: 0px;
+}
+
+.ol {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+
+.ol_todos {
+  padding-bottom: 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.button_carrinho {
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 5px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 500;
+  width: 205px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+  margin-left: -6px;
+}
+
+.home {
+  width: 25px;
+  margin-right: 5px;
+  transform: translateY(-2px);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  display: flex;
+  font-size: 19px;
+}
+
+.seta {
+  color: black;
+  width: 15px;
+  padding-top: 4px;
+}
+
+.explorer {
+  font-size: 19px;
+}
+
+.div_img_explorer {
+  display: flex;
+  margin: 0px auto;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  align-items: center;
+  padding: 20px 10px;
+  padding-left: 347px;
+}
+
+#li_1 {
+  color: white;
+}
+
+.container_products_abouts {
+  margin-left: -193px;
+  padding-top: 20px;
+  margin-left: -733px;
+  display: flex;
+}
+
+.carrinho_button {
+  width: 28px;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+.computador_todos {
+  display: flex;
+  justify-content: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat, sans-serif;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: black;
+  margin-top: -45px;
+  margin-left: -24px;
+  height: 127px;
+  position: sticky;
+  z-index: 10;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 143px;
+  padding: 0 6rem;
+  /* margin-top: 45px; */
+  padding-top: 74px;
+}
+
+.todos_computadores {
+  margin-top: -7px;
+}
+
+.cEZwIm3 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  background-color: rgb(38, 38, 38);
+  padding: 0px 15px;
+  margin-top: 26px;
+  color: white;
+  height: 284px;
+}
+
+.buhlSA div {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 12px;
+  gap: 15px;
+}
+
+.buhlSA {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px;
+  width: 250px;
+  height: 200px;
+  margin-top: 9px;
+}
+
+.h4_nome {
+  font-size: 20px;
+}
+
+.iPCesR img {
+  padding: 4px;
+  box-sizing: content-box;
+  background-color: rgb(64, 64, 64);
+  border: 1px solid rgb(80, 80, 80);
+  border-radius: 5px;
+  width: 27px;
+  cursor: pointer;
+}
+
+.fSiFFA {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 32px;
+}
+
+.cEZwIm3 a {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(144, 144, 144);
+  transition: all 0.2s ease 0s;
+}
+
+.DupHf h4 {
+  font-size: 19px;
+  padding: 20px 0px;
+}
+
+.fJFxfH {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+  margin-top: -32px;
+}
+
+.explorer {
+  font-size: 200px;
+}
+
+.cqDFSz {
+  display: flex;
+  gap: 17px;
+  margin-right: -96px;
+  margin-top: -93px;
+}
+
+.cqDFSz div img {
+  width: 25px;
+  height: 25px;
+}
+
+.cqDFSz div {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+  gap: 6px;
+}
+
+span {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+}
+
+.p_ou {
+  color: white;
+}
+
+.cqDFSz a {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+
+.pc-gamer {
+  width: 180px;
+  align-self: center;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+.h4 {
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+}
+
+.p {
+  color: black;
+  font-size: 16px;
+  margin-left: 0px;
+}
+
+.ol {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+
+.ol_todos {
+  padding-bottom: 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.button_carrinho {
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 5px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 500;
+  width: 205px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+  margin-left: -6px;
+}
+
+.home {
+  width: 25px;
+  margin-right: 5px;
+  transform: translateY(-2px);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  display: flex;
+  font-size: 19px;
+}
+
+.seta {
+  color: black;
+  width: 15px;
+  padding-top: 4px;
+}
+
+.explorer {
+  font-size: 19px;
+}
+
+.div_img_explorer {
+  display: flex;
+  margin: 0px auto;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  align-items: center;
+  padding: 20px 10px;
+  padding-left: 347px;
+}
+
+#li_1 {
+  color: white;
+}
+
+.pc-gamer:hover {
+  transform: scale(1.05);
+}
+
+.button_carrinho:hover {
+  background-color: #1363DF;
+}
+
+.container_products_abouts {
+  margin-left: -193px;
+  padding-top: 20px;
+  margin-left: -733px;
+  display: flex;
+}
+
+.home {
+  width: 25px;
+  margin-right: 5px;
+  transform: translateY(-2px);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  display: flex;
+  font-size: 19px;
+}
+
+.carrinho_button {
+  width: 28px;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}
+
+.explorar_link {
+  color: black;
+}
+
+.computador_todos {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background: black;
+  margin-top: -45px;
+  margin-left: -24px;
+  height: 143px;
+  position: sticky;
+  z-index: 10;
+}
+
+.div_img_explorer {
+  display: flex;
+  margin: 0px auto;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  align-items: center;
+  padding-left: 347px;
+}
+
+.seta {
+  color: black;
+  width: 15px;
+  padding-top: 4px;
+}
+
+.home_link {
+  color: black;
+  font-size: 20px;
+}
+
+.home_link:hover {
+  text-decoration: underline;
+}
+
+.sc-cCsOjp {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 12rem;
+  height: 420px;
+  background-color: rgb(38, 38, 38);
+  border-bottom: 15px solid #1363DF;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-left: -1178px;
+  margin-top: 214px;
+}
+
+.bCxYTg::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.7;
+  background-image: url(../img/imagens\ usadas\ para\ os\ componentes/nottbook.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.bCxYTg {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36rem;
+  height: 200px;
+  background-color: rgb(38, 38, 38);
+  border-bottom: 15px solid #1363DF;
+  border-radius: 10px;
+  margin-right: -357px;
+  margin-right: -553px;
+  margin-top: 215px;
+}
+
+.bCxYTg:hover h2 {
+  color: #1363DF;
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
+.hqSfAt::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.7;
+  background-image: url(../img/imagens\ usadas\ para\ os\ componentes/CPU2.bc6f58645fa1ef311cad.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.hqSfAt {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 36rem;
+  height: 200px;
+  background-color: rgb(38, 38, 38);
+  border-bottom: 15px solid #1363DF;
+  border-radius: 10px;
+  margin-top: 435px;
+  margin-right: 391px;
+  margin-left: -21px;
+}
+
+.hqSfAt:hover h2 {
+  color: #1363DF;
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
+.jTSUzF:hover h2 {
+  color: #1363DF;
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
+.container_products {
+  height: 702px;
+  background-color: white;
+}
+
+.container_products_abouts {
+  margin-left: -1216px;
+  padding-top: 20px;
+}
+
+.cqDFSz {
+  display: flex;
+  margin-right: -96px;
+  margin-top: -90px;
+  gap: 17px;
+}
+
+.cqDFSz div img {
+  width: 25px;
+  height: 25px;
+}
+
+.p_ou {
+  color: white;
+}
+
+.cqDFSz div {
+  display: flex;
+  align-items: center;
+  padding-bottom: 5px;
+  gap: 6px;
+}
+
+span {
+  color: white;
+}
+
+.cqDFSz a {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.jTSUzF {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 12rem;
+  height: 420px;
+  background-color: rgb(38, 38, 38);
+  border-bottom: 15px solid #1363DF;
+  border-radius: 10px;
+  margin-top: 217px;
+  margin-left: -370px;
+}
+
+.h2 {
+  z-index: 5;
+  font-size: 28px;
+}
+
+.sc-ikZpkk {
+  display: flex;
+  margin-top: -212px;
+  justify-content: center;
+  margin-left: 330px;
+}
+
+.explorer {
+  font-size: 19px;
+}
+
+.epqiXT:hover h2 {
+  color: #1363DF;
+  transition: 0.3s;
+  transform: scale(1.1);
+}
+
+.epqiXT::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.7;
+  background-image: url(../img/imagens\ usadas\ para\ os\ componentes/teclado1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.h2_products {
+  color: white;
+  z-index: 5;
+}
+
+.home {
+  width: 25px;
+  margin-right: 5px;
+  transform: translateY(-2px);
+}
+
+.container_product {
+  height: 320px;
+  background-color: white;
+}
+
+.menu {
+  margin-top: -10px;
+  margin-right: -54px;
+}
+
+.span-home {
+  color: hsl(var(--hue-color), 70%, 60%);
+}
+
+li {
+  display: inline-block;
+  margin: 13px;
+  font-size: 20px;
+}
+
+.nott {
+  display: flex;
+}
+
+.title {
+  text-align: center;
+  padding-bottom: 13px;
+}
+
+.product {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  text-align: center;
+}
+
+.link_not {
+  color: #1363DF;
+  display: block;
+  margin-top: -11px;
+  font-size: 18px;
+  transition: all 0.2s ease 0s;
+}
+
+.h2_not {
+  font-weight: 500;
+  font-size: 19px;
+  padding-bottom: 6px;
+  color: black;
+}
+
+.p_not {
+  font-size: 18px;
+  font-weight: 500;
+  padding-bottom: 6px;
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.h2-not {
+  font-weight: 500;
+  font-size: 30px;
+  padding-bottom: 9px;
+  color: black;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+.nottbook {
+  width: 400px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.iAYUTC {
+  text-align: center;
+  padding: 15px 10px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+}
+
+.gaWrVa img {
+  width: 35px;
+  margin-bottom: 2px;
+}
+
+.iAYUTC h3 {
+  font-weight: 400;
+  color: black;
+}
+
+.explorar {
+  width: 20px;
+}
+
+.gaWrVa {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  overflow-x: auto;
+  border-top: 1px solid rgb(204, 204, 204);
+  border-bottom: 1px solid rgb(204, 204, 204);
+  margin-right: 27px;
+  margin-top: 0px;
+}
+
+.iAYUTC:hover {
+  background-color: rgb(241, 241, 241);
+  color: #1363DF;
+}
+
+aside {
+  margin-top: -13px;
+  margin-left: -62px;
+}
+
+.h2-22 {
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  line-height: 60px;
+  padding-top: 24px;
+  margin-bottom: 4px;
+  font-weight: 500;
+  margin-left: -138px;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 256px;
+  margin-right: 230px;
+  padding-left: 65px;
+}
+
+.hjuFGX {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1024px;
+  margin-top: 107px;
+  margin: 0px auto 40px;
+  margin-right: 413px;
+}
+
+.container_about_about {
+  height: 526px;
+  background-color: white;
+}
+
+.bzOixb strong {
+  font-size: 22px;
+}
+
+.bzOixb h1 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.imagempc {
+  width: 500px;
+}
+
+.bzOixb p {
+  margin-bottom: 15px;
+}
+
+.gYkoek {
+  border: none;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+}
+
+.gYkoek:hover {
+  background-color: #1363DF;
+  color: white;
+}
+
+.iAYUTC {
+  text-align: center;
+  padding: 15px 10px;
+  cursor: pointer;
+  transition: all 0.2s ease 0s;
+}
+
+.main {
+  margin: 0px auto 40px;
+}
+
+.carrinho_cart {
+  width: 25px;
+  height: 25px;
+  margin-bottom: -5px;
+}
+
+.jTSUzF::before {
+  content: " ";
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.7;
+  background-image: url(../img/imagens\ usadas\ para\ os\ componentes/monitor.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  border-radius: 10px;
+}
+
+.bx-cart {
+  font-size: 20px;
+}
+
+.container_abouts {
+  height: 85px;
+  background-color: red;
+  margin-top: -18px;
+}
+
+.div_abouts_abousts {
+  margin: 0px auto 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1024px;
+  margin-right: 180px;
+}
+
+.product_nootbook {
+  width: 400px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 143px;
+  padding: 0 6rem;
+  /* margin-top: 45px; */
+  padding-top: 74px;
+}
+
+.cEZwIm {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  background-color: rgb(38, 38, 38);
+  padding: 0px 15px;
+  margin-top: 1390px;
+  color: white;
+  height: 284px;
+}
+
+.fSiFFA {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 32px;
+}
+
+.DupHf h4 {
+  font-size: 19px;
+  padding: 20px 0px;
+}
+
+.buhlSA div {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 12px;
+  gap: 15px;
+}
+
+.fJFxfH {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+  margin-top: -32px;
+}
+
+.cEZwIm a {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 15px;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(144, 144, 144);
+  transition: all 0.2s ease 0s;
+}
+
+.iPCesR img {
+  padding: 4px;
+  box-sizing: content-box;
+  background-color: rgb(64, 64, 64);
+  border: 1px solid rgb(80, 80, 80);
+  border-radius: 5px;
+  width: 27px;
+  cursor: pointer;
+}
+
+.buhlSA {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 5px;
+  width: 250px;
+  height: 200px;
+  margin-top: 9px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+}
+
+@media screen and (max-width: 480px) {
+  .div_abouts_abousts {
+    display: block;
+  }
+
+  .bzOixb h1 {
+    margin-left: 28px;
+    margin-right: -460px;
+  }
+
+  .bzOixb p {
+    margin-left: 34px;
+    margin-right: -305px;
+  }
+
+  .gaWrVa {
+    margin-bottom: 33px;
+  }
+
+  .bzOixb strong {
+    margin-left: 29px;
+  }
+
+  .gYkoek {
+    margin-left: 32px;
+  }
+
+  .product_11 {
+    display: block;
+  }
+
+  .product_12 {
+    display: block;
+  }
+
+  .product {
+    flex-direction: column;
+    margin-bottom: 97px;
+    padding-top: 148px;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */

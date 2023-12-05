@@ -1,0 +1,38 @@
+.container{
+    background: black;
+    margin-top: -45px;
+    margin-left: -24px;
+    height: 127px;
+    position: sticky;
+    z-index: 10;
+}
+
+.p_ou{
+    color: white;
+}
+
+
+span{
+    color: white;
+}
+
+
+.cqDFSz {
+    display: flex;
+    gap: 17px;
+    margin-right: -96px;
+    margin-top: -93px;
+
+}
+
+.cqDFSz a {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    gap: 6px;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}

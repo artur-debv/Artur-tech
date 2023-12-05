@@ -1,0 +1,338 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    background: black;
+    margin-top: -45px;
+    margin-left: -24px;
+    height: 127px;
+    position: sticky;
+    z-index: 10;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    height: 143px;
+    padding: 0 6rem;
+    /* margin-top: 45px; */
+    padding-top: 74px;
+}
+
+
+.todos_computadores{
+    margin-top: -7px;
+}
+
+
+
+.cEZwIm3 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: rgb(38, 38, 38);
+    padding: 0px 15px;
+    margin-top: 144px;
+    color: white;
+    height: 284px;
+}
+
+
+.buhlSA div {
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 12px;
+    gap: 15px;
+}
+
+
+.buhlSA {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 5px;
+    width: 250px;
+    height: 200px;
+    margin-top: 9px;
+}
+
+
+.h4_nome {
+    font-size: 20px;
+}
+
+
+.iPCesR img {
+    padding: 4px;
+    box-sizing: content-box;
+    background-color: rgb(64, 64, 64);
+    border: 1px solid rgb(80, 80, 80);
+    border-radius: 5px;
+    width: 27px;
+    cursor: pointer;
+}
+
+
+.fSiFFA {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 32px;
+}
+
+
+.cEZwIm3 a {
+    display: block;
+    font-size: 16px;
+    padding-bottom: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(144, 144, 144);
+    transition: all 0.2s ease 0s;
+}
+
+
+.DupHf h4 {
+    font-size: 19px;
+    padding: 20px 0px;
+}
+
+
+.fJFxfH {
+    text-align: center;
+    color: #666;
+    margin-bottom: 5px;
+    margin-top: -32px;
+}
+
+
+.explorer{
+    font-size: 200px;
+}
+
+
+.cqDFSz {
+    display: flex;
+    gap: 17px;
+    margin-right: -96px;
+    margin-top: -93px;
+}
+
+
+.cqDFSz div img {
+    width: 25px;
+    height: 25px;
+}
+
+
+.cqDFSz div {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-bottom: 5px;
+    gap: 6px;
+}
+
+
+
+
+span {
+    color: white;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+}
+
+.p_ou {
+    color: white;
+}
+
+
+.cqDFSz a {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    gap: 6px;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+
+.computador1{
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    padding: 10px;
+    width: 216px;
+    gap: 15px;
+    height: 404px;
+    background-color: rgb(243, 244, 246);
+    margin: 20px;
+}
+
+
+.pc-gamer {
+    width: 180px;
+    align-self: center;
+    transition: all 0.5s ease 0s;
+    cursor: pointer;
+}
+
+
+.h4 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+
+.p {
+    color: black;
+    font-size: 16px;
+    margin-left: 0px;
+}
+
+.ol {
+    list-style-type: disc;
+    margin-left: 15px;
+}
+
+
+.ol_todos {
+    padding-bottom: 8px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.button_carrinho_1{
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 5px;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-weight: 500;
+    width: 205px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease 0s;
+    margin-left: -6px;
+}
+
+
+.home {
+    width: 25px;
+    margin-right: 5px;
+    transform: translateY(-2px);
+}
+
+
+a {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    font-size: 19px;
+}
+
+
+.seta {
+    color: black;
+    width: 15px;
+    padding-top: 4px;
+}
+
+.explorer {
+    font-size: 19px;
+}
+
+
+.div_img_explorer {
+    display: flex;
+    margin: 0px auto;
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    gap: 5px;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 20px 10px;
+    padding-left: 347px;
+}
+
+
+#li_1{
+color: white;
+}
+
+
+
+.pc-gamer:hover {
+    transform: scale(1.05);
+}
+
+
+.button_carrinho:hover {
+    background-color: #1363DF;
+}
+
+
+.container_products_abouts {
+    margin-left: -193px;
+    padding-top: 20px;
+    margin-left: -733px;
+    display: flex;
+}
+
+
+
+
+.home {
+    width: 25px;
+    margin-right: 5px;
+    transform: translateY(-2px);
+}
+
+
+a {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    font-size: 19px;
+}
+
+
+.carrinho_button {
+    width: 28px;
+    transition: all 0.5s ease 0s;
+    cursor: pointer;
+}
+
+
+.explorar_link{
+    color: black;
+}
+
+.computador_todos {
+    display: flex;
+    justify-content: center;
+}
