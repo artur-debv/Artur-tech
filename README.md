@@ -2,11 +2,9 @@ Olá pessoal! 👋 Venho trazer pra vocês um site que estou realizando no Técn
 
 ## Tech Stack
 
-- Fastify
-- Typescript
-- Docker
-- PostgreSQL
-- Vitest
+- PHP
+- MYSQL
+
 
 ## O que foi feito 
 - autentição do usuário
