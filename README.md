@@ -8,6 +8,13 @@ Olá pessoal! 👋 Venho trazer pra vocês um site que estou realizando no Técn
 - PostgreSQL
 - Vitest
 
+## O que foi feito 
+- autentição do usuário
+- cadastro de produtos
+- Painel admistrativo
+- cadastro de clientes
+- exibição dos produtos com as categorias
+
 
 https://github.com/artur-debv/Artur-tech/assets/97331300/ba30e609-e185-4b68-b9d0-39d95989b095
 
